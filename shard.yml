@@ -1,0 +1,22 @@
+name: test
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  test:
+    main: src/server.cr
+
+crystal: 0.35.1
+
+license: MIT
+
+dependencies:
+  mysql:
+    github: crystal-lang/crystal-mysql
+  jwt:
+    github: crystal-community/jwt
+  kemal:
+    github: kemalcr/kemal
+    branch: master
