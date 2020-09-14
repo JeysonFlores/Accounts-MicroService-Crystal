@@ -25,6 +25,16 @@
     "password": "Fernando1234"
   }
 ```
+
+
+  <h3> Error Handlers </h3>
+ 
+  -  400 Bad Request
+  -  403 Forbidden
+  -  404 Not Found
+  -  405 Method Not Allowed
+  
+  
 # Resources
 
   - MySQL
