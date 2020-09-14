@@ -25,7 +25,7 @@
     "password": "Fernando1234"
   }
 ```
-  **Note: after each login, it returns a JSON object with the authentication token which will last 1 hour.
+  **Note:** after each login, it returns a JSON object with the authentication token which will last 1 hour.
 
   <h3> Error Handlers </h3>
  
