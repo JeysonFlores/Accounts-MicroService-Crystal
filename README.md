@@ -37,7 +37,7 @@
   
 # Resources
 
-  - MySQL
+  - MySQL / MariaDB
 
 # Crystal Dependences (shards)
 
