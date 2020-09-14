@@ -3,7 +3,7 @@
   This microservice works by the Kemal Framework, uses MySQL as DBM (it doesn't have ORM... yet), encrypt the login data with JWT and receives and responds data       using JSON.
   
   <h2> [POST]   /signup </h3>
-  <h3> Format </h1>
+  <h3> Request format </h1>
   
   ```
   {
@@ -17,7 +17,7 @@
   
   
   <h2> [GET]   /login </h3>
-  <h3> Format </h1>
+  <h3> Request format </h1>
   
   ```
   {
