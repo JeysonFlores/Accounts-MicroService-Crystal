@@ -5,6 +5,7 @@
   <h1> [POST] Sign up </h3>
   <h2> POST /signup </h2>
   <h3> Format </h1>
+  
   ```
   {
     "name": "Fernando Murrieta",
@@ -19,8 +20,10 @@
   <h1> [GET] Log in </h3>
   <h2> [GET] /login </h2>
   <h3> Format </h1>
+  
   ```
   {
     "email": "Fernando@gmail.com",
     "password": "Fernando1234"
   }
+```
