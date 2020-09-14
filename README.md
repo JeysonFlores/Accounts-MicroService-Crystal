@@ -25,5 +25,14 @@
     "password": "Fernando1234"
   }
 ```
+# Resources
+
+  - MySQL
+
+# Crystal Dependences (shards)
+
+ - crystal-mysql
+ - jwt
+ - kemal (branch master)
 
 
