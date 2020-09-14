@@ -36,7 +36,7 @@
   
   
  <h3> Running </h3>
-  As you can imagine, you need to have Crystal and MySQL or MariaDB to run it. In the root folder of the project run the command **shards install** to install all   de dependencies and then, to initialize the server you must run the command **crystal run src/server.cr** and if everything goes well, it'll start.
+  As you can imagine, you need to have Crystal and MySQL or MariaDB to run it. In the root folder of the project run the command _shards install_ to install all   de dependencies and then, to initialize the server you must run the command _crystal run src/server.cr_ and if everything goes well, it'll start.
   
  <h3> Resources </h3>
 
