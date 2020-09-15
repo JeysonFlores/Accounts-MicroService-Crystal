@@ -1,6 +1,6 @@
 # Accounts Microservice
 
-  This microservice works by the Kemal Framework, uses MySQL as DBM (it doesn't have ORM... yet), encrypts the login data with JWT and receives and responds data       using JSON.
+  This microservice works using the Kemal Framework, uses MySQL as DBM (it doesn't have ORM... yet), encrypts the login data with JWT and receives and responds data       using JSON.
   
   <h2> [POST]   /signup </h3>
   <h3> Request format </h1>
